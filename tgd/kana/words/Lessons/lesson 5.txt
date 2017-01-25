@@ -1,0 +1,29 @@
+ikimasu:go
+kimasu:come
+kaerimasu:go home, return
+eki:station
+hikouki:airplane
+fune:ship
+densha:train
+chikatetsu:subway, underground
+shinkansen:bullet train
+jitensha:bicycle
+aruite:on foot
+hito:person, people
+tomodachi:friend
+kare:he, boyfriend
+kanojo:she, girlfriend
+hitoride:alone, by oneself
+senshuu:last week
+konshuu:this week
+raishuu:next week
+sengetsu:last month
+kongetsu:this month
+raigetsu:next month
+kyonen:last year
+kotoshi:this year
+rainen:next year
+nangatsu:what month
+itsu:when
+futsu:local train
+tsugino:next

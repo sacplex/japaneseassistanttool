@@ -1,0 +1,16 @@
+wa_ta_shi:I
+wa_ta_shi_ta_chi:We
+a_na_ta:You
+se_n_se_i:Teacher
+ga_ku_se_i:Student
+ka_i_sha_i_h:Company employee
+sha_i_n:Employee
+gi_n_ko_u_i_n:Bank Employee
+i_sha:Medical Doctor
+ke_n_kyu_sha:Researcher
+da_i_ga_ku:University
+byo_u_i_n:Hospital
+da_re:Who
+ha_i:Yes
+i_i_e:No
+

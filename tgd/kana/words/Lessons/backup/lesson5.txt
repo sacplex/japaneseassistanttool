@@ -1,0 +1,48 @@
+﻿いきます:行きます:go
+きます:来ます:come
+かえらます:帰らます:go home, return
+がっこう:学校:school
+スーパー:supermarket
+えき:駅:station
+ひこうき:飛行機:airplane
+ふね:船:ship
+でんしゃ:電車:electric train
+ちかてっ:地下鉄:subway
+しんかんせん:新幹線:bullet train
+バス:bus
+タクシー:taxi
+じてんしゃ:自転車:bike
+あるいて:歩いて:on foot
+ひと:人:person, people
+ともだち:友達:friend
+かれ:彼:he, boyfriend
+かのじょ:彼女:she, girlfriend
+かぞく:家族:family
+ひとりで:一人で:alone
+せんしゅう:先週:last week
+こんしゅう:今週:this week
+らいしゅう:来週:next week
+せんげつ:先月:last month
+こんげつ:今月:this month
+らいげつ:来月:next month
+きょねん:去年:last year
+ことし:今年:this year
+らいねん:来年:next year
+なんねん:何年:what year
+なんがつ:何月:what month
+ついたち:1日:first day of the month
+ふつか:２日:second day of the month
+みっか:３日:third day of the month
+よっか:４日:fourth day of the month
+いつか:５日:fifth day of the month
+むいか:６日:sixth day of the month
+なのか:７日:seventh day of the month
+ようか:８日:eighth day of the month
+ここのか:9日:ninth day of the month
+とおか:１０日:tenth day of the month
+じゅうよっか:１４日:fourteenth day of the month
+はつか:２０日:twentieth day of the month
+にじゅうよっか:24日:twenty-fourth day of the month
+なんにち:何日 which day of the month
+いつ:何時:when
+たんじょうび:誕生日:birthday

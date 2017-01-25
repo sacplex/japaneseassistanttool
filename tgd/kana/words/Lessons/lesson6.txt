@@ -1,0 +1,48 @@
+﻿たべます:食べます:eat
+のみます:飲みます:drink
+すいます:吸います:smoke
+みます:見ます:see, look at, watch
+ききます:聞きます:hear, listen
+よみます:読みます:read
+かきます:書きます:write
+かいます:買います:buy
+とります:撮ります:take a photo
+します:do, play
+あいます:会います:meet
+ごはん:a meal
+あさごはん:朝ごはん:breakfast
+ひるごはん:昼ごはん:lunch
+ばんごはん:晩ごはん:supper
+パン:pan
+たまご:卵:egg
+にく:肉:meat
+さかな:魚:fish
+やさい:野菜:vegetable
+くだもの:果物:fruit
+みず:水:water
+おちゃ:お茶:green tea
+こうちゃ:紅茶:black tea
+ぎゅうにゅう:牛乳:milk
+ジュース:juice
+ビール:beer
+おさけ:お酒:alcohol
+たばこ:tobacco
+てがみ:手紙:letter
+レポート:report
+しゃしん:写真:photograph
+ビデオ:video
+みせ:店:shop, store
+にわ:庭:garden
+しゅくだい:宿題:homework
+テニス:tennis
+サッカー:soccer
+おはなみ:お花見:cherry-blossom viewing
+なに:何:what
+いっしょに:together
+ちょっと:a little while, a little bit
+いつも:always, usually
+ときどき:時々:sometimes
+それから:after that, and then
+ええ:yes
+いいですね:that’s good
+わかりました:I see

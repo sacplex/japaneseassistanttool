@@ -1,0 +1,46 @@
+﻿これ:this (thing here)
+それ:that (thing near the listener)
+あれ:that (thing over there)
+この～:this ~ here
+その～:that ~ near the listener
+あの～:that ~ over there
+ほん:本:book
+じしょ:辞書:dictionary
+ざっし:雑誌:magazine
+しんぶん:新聞:newspaper
+ノート:notebook
+てちょう:手帳:personal organiser
+めいし:名刺:business card
+カード:(credit) card
+えんぴつ:鉛筆:pencil
+ボールペン:ballpoint pen
+シャープペンツル:mechanical pencil
+かぎ:key
+とけい:時計:watch, clock
+かさ:傘:umbrella
+かばん:bag, briefcase
+CD:CD, compact disc
+テレビ:television
+ラジオ:radio
+カメラ:camera
+コンピューター:computer
+くるま:車:car, vehicle
+つくえ:机:desk
+いす:chair
+チョコレート:chocolate
+コービー:coffee
+おみやげ:お土産:souvenir, present
+えいご:英語:the English language
+にほんご:日本語:the Japanese language
+～ご:～語:~ language
+なん:何:what
+そう:so
+あのう:Er
+えっ:Oh (used when hearing something unexpected)
+どうぞ:Here you are
+「どうも」ありかとう「ございます」:Thank you very much
+そうでそか:I see
+ちかいまそ:No, it isn't
+あ:Oh (used when becoming aware of something)
+これから あせわに なります:Thank you in advance for your kindness
+こちらこそ「どうぞ」よろしく「おねがいします」:Pleased to meet you, too

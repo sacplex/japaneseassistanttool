@@ -1,0 +1,51 @@
+﻿います「こどもが～」:「子どもが～」:have [a child]
+いなす「にはんに～」:「日本に～」:stay, be [in Japan]
+かからます:take, cost (referring to time or money)
+やすみます:休みます:take a day off
+ひとつ:1つ:one (counting)
+ふとつ:２つ: two (counting)
+みっつ:３つ: three (counting)
+よっつ:４つ: four (counting)
+いつつ:５つ: five (counting)
+むっつ:６つ: six (counting)
+ななつ:７つ: seven (counting)
+やっつ:８つ: eight (counting)
+ここのつ:９つ: nine (counting)
+とお:１０: ten (counting)
+いくつ:how many
+ひとり:1人:one person
+ふたり:2人:two person
+―にん:－人:- people
+－だい:－大:(counter for machines, cars, etc)
+－まい: －枚:(counter for machines, cars, etc)
+－かい: －回:(counter for machines, cars, etc)
+りんご:apple
+みかん:mandarin orange
+サンドイッチ:sandwich
+カレー「ライス」:curry [with rice]
+アイスクリール:ice cream
+きって:切手:postage stamp
+はがき:postcard
+ふうとう:封筒:envelope
+りょうしん:両親:parents
+きょうだい:兄弟:brothers and sisters
+あに:兄:(my) elder brother
+おにいさん:お兄さん:(someone else’s) elder brother
+あね:姉:(my) elder sister
+おねえさん:お姉さん:(someone else’s) elder sister
+おとうと:弟:(my) younger brother
+おとうとさん:弟さん:(someone else’s) younger brother
+いもうと:妹:(my) younger sister
+いもうとさん:妹さん: (someone else’s) younger sister
+がいこく:外国:foreign country
+りゅうがくせい:留学生:foreign student
+クラス:class
+―じかん:―時間:-hour(s)
+―しゅうかん:―週間:-week(s)
+―かげつ:－か月:month(s)
+―ねん:―年:year(s)
+～ぐらい:about~
+どのくらい:how long
+ぜんぶで:全部で:in total
+みんな:all, everything, everyone
+～だけ:only~

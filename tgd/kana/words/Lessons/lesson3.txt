@@ -1,0 +1,47 @@
+﻿ここ:here, this place
+そこ:there, that place near the listener
+あそこ:that place over there
+どこ:where, what place
+こちら:this way, this place
+そちら:that way, that place near the listener
+あちら:that way, that place over there
+きょうしつ:教室:classroom
+しょくどう:食堂:dining hall, canteen
+じむしょ:事務所:office
+かいぎしつ:会議室:conference room, meeting room
+うけつけ:受付:reception desk
+ロビー:lobby
+へや:部屋:room
+トイレ（おてあらい）:（お手洗い）:toilet, rest room
+かいだん:階段:staircase
+エレベーター:lift, elevator
+エスカレーター:escalator
+じどうはんばいき:自動販売機:vending machine
+でんわ:電話:telephone handset, telephone call
+「お」くに:「お」国:country
+かいしゃ:会社:company
+うち:house, home
+くつ:靴:shoes
+ネクタイ:tie, necktie
+ワイン:wine
+うりば:売り場:department, counter
+ちか:地下:basement
+―かい（がい）: ―階:-th floor
+なんがい:何階:what floor
+―えん:―円:- yen
+いくら:how much
+ひゃく:百:hundred
+せん:千:thousand
+まん:万:ten thousand
+すみません:excuse me
+どうも:thanks
+いらっしゃいませ:welcome, may I help you
+「～を」みせてください:見せてください:please show me
+じゃ:well, then, in that case
+「～を」ください:give me [~], please
+イタリア:Italy
+スイス:Switzerland
+フテンス:France
+ジャカルタ:Jakarta
+バンコク:Bangkok
+ベルリン:Berlin

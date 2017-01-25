@@ -1,0 +1,37 @@
+﻿わたし:I
+あなた:you
+あの ひと:that person, he, she
+～さん:Mr;Ms
+～ちゃん:child's suffix
+～じん:nation's suffix
+せんせい:先生:teacher (not used when referring to one's own job)
+きょうし:教師:teacher
+がくせい:学生:student
+かいしゃいん:会社員:company employee
+しゃいん:社員:employee of ~ company
+ぎんこういん:銀行員:bank employee
+いしゃ:医者:doctor
+けんきゅしゃ:研究者:researcher
+だいがく:大学:university
+びょういん:病院:hospital
+だね:who
+―さい:―歳:years old
+なんさい:何歳:how old
+はい:yes
+いいえ:no
+はじめまして:初めまして:how do you do
+～からきました:I'm from ~ country
+「どうぞ」よろしく「おねがいします」:Please to meet you
+しつれいですが:失礼ですが:Excuse me (used when asking for information)
+おなまえは: お名前は:May I have your name
+こちらは～さんです:This is Mr;Ms
+アメリカ:America
+イギリス:United Kingdom
+インド:India
+インドネシア:Indonesia
+かんこく:韓国:South Korea
+タイ:Thailand
+ちゅうごく:中国:China
+ドイシ:Germany
+にほん:日本:Japan
+バラジル:Brazil

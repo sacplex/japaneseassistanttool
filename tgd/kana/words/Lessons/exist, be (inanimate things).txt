@@ -1,0 +1,39 @@
+﻿あらます:exist, be (inanimate things)
+います: exist, be (animate things)
+いろいろな:various
+おとこのひと:男の人:man
+おんあのひと:女の人:woman
+おとこのこ: 男の子:boy
+おとなのこ:床の子:girl
+いね:犬:dog
+ねこ:猫:cat
+パンダ:panda
+ぞう:象:elephant
+き:木:tree, wood
+でんち:電池:battery
+はこ:箱:box
+スイッチ:switch
+れいぞうこ:冷蔵庫:refrigerator
+テーブル:table
+ベッド:bed
+たな:棚:shelf
+ドア:door
+まど:窓:window
+ポスト:postbox, mailbox
+ビル:building
+コンビニ:convenience store
+こうえん:公園:park
+きっさてん:喫茶店:café, coffee shop
+のりば:乗り場:a fixed place to catch taxis
+けん:県:prefecture
+うえ:上:on, above, over
+した:下:under, below, beneath
+まえ:前:front, before
+うしろ:back, behind
+みぎ:右:right
+ひだり:左:left
+なか:中:in, inside
+そと:外:outside
+となり:隣:next, next door
+ちかく:近く:near, vicinity
+あいだ:間:between, among

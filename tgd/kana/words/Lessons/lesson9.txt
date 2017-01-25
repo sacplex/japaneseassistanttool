@@ -1,0 +1,44 @@
+﻿わかります:understand
+あります:have
+すきな:好きな:like
+きらいな:嫌いな:dislike
+じょうずな:上手な:good at
+へたな:下手な:poor at
+のみもの:飲み物:drinks
+りょうり:料理:dish, cooking
+スポーシ:sport
+やきゅう:野球:baseball
+ダンス:dance
+りょこう:旅行:trip, tour
+おんがく:音楽:music
+うた:歌:song
+クラシック:classical music
+ジャズ:jazz
+コンサート:concert
+カラオケ:karaoke
+かぶき:歌舞伎:kabuki
+え:絵:picture, drawing
+じ:字:letter, character
+かんじ:漢字:Chinese character
+ひらがな:hiragana
+かたかな:katakana
+ローマジ:ローマ字:roman alphabet
+こまかいおかね:細かいお金:small change
+チケッヒト:ticket
+じかん:時間:time
+ようじ:用事:something to do, errand
+やくそく:約束:appointment, promise
+アルバイト:side job
+ごしゅじん:ご主人:someone else’s husband
+おっと/しゅじん:夫/主人:my husband
+おくさん:奥さん:someone else’s wife
+つま/かない:妻/家内:wife
+こども:子ども:child
+よく:well, much
+だいたい:mostly, roughly
+たくさん:many, much
+すこし:少し:a little, a few
+ぜんぜん:全然:not at all
+はやく:早く，速く:early, quickly, fast
+~から:because~
+どうして:why

@@ -1,0 +1,39 @@
+tabemasu:eat
+nomimasu:drink
+suimasu:smoke
+mimasu:see
+kikimasu:hear
+yomimasu:read
+kaimasu:buy
+torimasu:take(photograph)
+shimasu:do
+aimasu:meet(a friend)
+gohan:meal(cooked rice)
+asagohan:breakfast
+hirugohan:lunch
+bangohan:supper
+tamago:egg
+niku:meat
+sakana:fish
+yasai:vegetable
+kudamono:fruit
+mizu:water
+ocha:tea
+kocha:black tea
+gyunyu:milk
+osake:alcohol
+tabako:tabacco
+tegami:letter
+shashin:photograph
+mise:stop
+niwa:garden
+shukudai:homework
+ohanami:cherry-blossom viewing
+nani:what
+choto:a little bit
+itsumo:always, usually
+tokidoki:sometimes
+sorekara:after that and then
+ee:yes
+iidesune:that's good
+wakarimashita:I see
